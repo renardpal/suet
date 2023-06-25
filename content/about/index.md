@@ -18,13 +18,20 @@ eleventyNavigation:
   ### Poubelles avant votre départ
   
 ## Pendant votre séjour
+
   ### Comment régler le thermostat ?
+
   ### Quel est le mot de passe de la box Internet ?
+
   ### Je n'ai plus d'eau chaude.
   Vérifier la pression de la chaudière.
+
   ### Un store électrique ne fonctionne plus.
+
   ### Quel est le jour de collecte des poubelles ?
+
   ### Comment fonctionne le tri à Carnac ?
+  
   ### J'ai un autre problème.
 
 ## 🦐 Inventaire de la maison
