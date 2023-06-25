@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: Guide de la maison
   order: 3
 ---
-# About Me
+# Guide de la maison
 
 I am a person that writes stuff.
