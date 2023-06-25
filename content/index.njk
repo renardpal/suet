@@ -5,9 +5,13 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
+<img src="https://www.chapelimmobilier.com/public/img/big/PXLPANOjpg_60d6ff97c3386.jpg" max-width="800">
+
+<!-- We are not ready for this part yet
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h1>Dernières nouvelles</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -17,6 +21,8 @@ numberOfLatestPostsToShow: 3
 {% if morePosts > 0 %}
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
 {% endif %}
+
+! -->
 
 {# List every content page in the project #}
 {#
